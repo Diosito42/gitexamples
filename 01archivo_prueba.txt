@@ -1,1 +1,2 @@
-01vercambiosdegitstatus
+01 ver cambios de git status
+02 otro cambio en el archivo
